@@ -1,0 +1,122 @@
+.wrap1{
+    max-width: 7.5rem;
+    min-width: 3.2rem;
+    margin: 0 auto;
+    overflow: hidden;
+    padding-bottom:0.8rem;
+    position: relative;
+    height: 12rem;
+  }
+  .header1{
+      height:2.14rem;
+      background: #0084ff;
+      position: relative;
+      width: 7.5rem;
+  }
+  .main{
+      width: 6.88rem;
+      margin: 0 auto;
+  }
+  .header1 h1{
+    font: 0.5rem/0.77rem 微软雅黑;
+    color: #fff;
+    text-align: center;
+    padding-top: 0.5rem;
+  }
+  .header1 p{
+    font: 0.32rem/0.30rem 微软雅黑;
+    color: #fff;
+    text-align: center;
+  }
+  .fr{
+      position: absolute;
+      right: 0.3rem;
+      top: 0.3rem;
+  }
+  /* 下拉框 */
+  .el {
+      width: 1.8rem;
+      height: 0.8rem;
+      font: 0.32rem/0.44rem 微软雅黑;
+      border: none;
+      margin-top: 0.7rem;
+      background: #fff;
+  }
+ .in1{
+      padding-left: 0.3rem;
+      margin-left: 0.2rem;
+      border-left: 1px solid#ccc;
+      color: #76839b;
+      font: 0.3rem/0.44rem 微软雅黑;
+      
+  }
+  .in2{
+      font: 0.3rem/0.44rem 微软雅黑;
+      color: #76839b;
+      width: 4.8rem;
+      font: 0.30rem/0.44rem 微软雅黑;
+  }
+  span{
+      width:4.8rem ;
+      height: 0.5rem;
+      display: inline-block;
+      border-bottom: 1px solid #ccc;
+  }
+  .main1{
+      margin-bottom: 0.5rem;
+      border-bottom: 1px solid #ccc;
+  }
+  button{
+    color: #333;
+    border: 1px solid #999;
+    font: 0.32rem/0.55rem 微软雅黑;
+    border-radius: 0.08rem;
+    width: 2rem;
+    background: #fff; 
+  }
+  .main p{
+      color: #8590a6;
+      text-align: center;
+  }
+  .pp1{
+      margin-top: 0.4rem;
+      font: 0.26rem/0.3rem 微软雅黑;
+  }
+  .main p a{
+    color: #8590a6;
+    text-decoration: underline;  
+  }
+  .main>a:nth-of-type(1){
+      background: #0084ff;
+      font: 0.32rem/0.8rem 微软雅黑;
+      color: #fff;
+      text-align: center;
+      display: inline-block;
+      width: 100%;
+      margin-top: 0.44rem;
+  }
+  .mm{
+      margin-top: 0.44rem;
+      width: 100%;
+  }
+  .mm a{
+    font: 0.36rem/0.8rem 微软雅黑;
+    color: #0084ff;
+  }
+  .mm .fff{
+      position: absolute;
+      top: 7.4rem;
+      right: 0.33rem;
+  }
+  .sj{
+      position: absolute;
+      top: 11rem;
+      left:30%;
+  }
+  .sj a{
+    font: 0.36rem/0.8rem 微软雅黑;
+    color: #0084ff;
+    text-align: center;
+    display: inline-block;
+    width: 100%;
+  }

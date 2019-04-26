@@ -1,0 +1,109 @@
+.content {
+    background: #f4f4f4;
+    max-width: 7.5rem;
+    min-width: 3.2rem;
+    margin: 0 auto;
+    overflow: hidden;
+    padding-bottom:0.8rem;
+  }
+  .box1 {
+    width: 7.5rem;
+    margin-top: 0.2rem;
+     background: #fff;
+     padding-bottom: 0.8rem;
+  }
+
+  .box1>h1{
+    font: 0.32rem/0.96rem 微软雅黑;
+    margin-left:0.33rem ;
+  } 
+   .neirong{
+      width: 6.88rem;
+      margin: 0 auto;
+  }
+  .box1 .neirong h1{
+      font: 0.35rem/1.12rem 微软雅黑;
+      border-top: 0.02rem solid #ebebeb;
+      border-bottom: 0.02rem solid #ebebeb;
+  }
+  .box1 .neirong ul li{
+    font: 0.32rem/0.43rem 微软雅黑;
+    margin-top: 0.34rem;
+    color: #175199;
+  }
+  .neirong a{
+    display: inline-block;
+    width: 6.88rem;
+    font: 0.32rem/0.32rem 微软雅黑;
+    color: #175199;
+    text-align: center;
+    margin: 0 auto;
+  }
+  .box1 .neirong{
+    position: relative;
+  }
+  .yy{
+      padding-top: 0.8rem;
+      background: rgba(255,255,255,0.5);
+      position: absolute;
+      top: 3.3rem;
+      left: 0rem;
+  }
+  .neirong span{
+      margin-left: 0.1rem;
+    font: 0.38rem/0.38rem 微软雅黑;
+  }
+  .neirong img{
+      width: 0.92rem;
+      height: 0.92rem;
+      border-radius: 3px;
+  }
+  .neirong1{
+    width: 6.88rem;
+    margin: 0 auto;
+}
+  .neirong1 span{
+   font: 0.38rem/0.38rem 微软雅黑;
+    display: inline-block;
+    color: #333;
+  }
+  .neirong1 p{
+    margin-left: 0.1rem;
+    font: 0.32rem/0.4rem 微软雅黑;
+    color: #333;
+    display: inline-block;
+    width: 4rem;
+}
+  .neirong1 li{
+      padding-bottom: 0.28rem;
+      border-bottom: 0.02rem solid #ebebeb;
+      margin-top: 0.25rem;
+      position: relative;
+  }
+  .neirong1 li button{ 
+    width: 2.02rem;
+    font: 0.32rem/0.67rem 微软雅黑;
+    color: #fff;
+    text-align: center; 
+    background: #0084ff;
+    border-radius: 3px;
+    border: none;
+    position: absolute;
+    right:0;
+    bottom: 0.5rem;
+  }
+  .app{
+      display: inline-block;
+      text-align: center;
+      color: #fff;
+      font: 0.26rem/0.72rem 微软雅黑;
+      width: 2.11rem;
+      height: 0.72rem; 
+      border-radius: 1.05rem;
+      background: #0084ff;
+      margin: 0 auto;
+      position: fixed;
+      bottom: 0;
+      left:35%;
+  }
+  
